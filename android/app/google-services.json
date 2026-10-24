@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194949633111",
+    "project_id": "yaqin-dating-app",
+    "storage_bucket": "yaqin-dating-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194949633111:android:ad2856b42969d8b2d1ff12",
+        "android_client_info": {
+          "package_name": "com.yaqin.dating"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgHv94cAP0lSXTMpb0Zqvo1Cvh3O2OmbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
